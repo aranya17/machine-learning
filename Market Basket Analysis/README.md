@@ -1,4 +1,6 @@
-Due to the large size of the original dataset (541910 records), which exceeded the available RAM and led to crashes during processing, I opted to work with a subset of the data for practical reasons. Specifically, we selected the first 5,000 records from the dataset.
+Original Dataset : https://archive.ics.uci.edu/dataset/352/online+retail
+
+Due to the large size of the original dataset (541909 records), which exceeded the available RAM and led to crashes during processing, I opted to work with a subset of the data for practical reasons. Specifically, we selected the first 5,000 records from the dataset.
 
 **Rationale :**
 
